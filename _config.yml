@@ -7,3 +7,11 @@ email: "arifulamindu@gmail.com"
 location: "Malmö, Sweden"
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Custom HTML for Social Links
+social_html: |
+  <p><strong>📞 Contact Number:</strong> <a href="tel:+46-722705966">+46-722705966</a></p>
+  <p><strong>🔗 LinkedIn:</strong> <a href="https://www.linkedin.com/in/ariful-amin/" target="_blank">My LinkedIn</a></p>
+  <p><strong>✉️ Email:</strong> <a href="mailto:arifulamindu@gmail.com">arifulamindu@gmail.com</a></p>
+  <p><strong>📍 Location:</strong> Malmö, Sweden</p>
+
