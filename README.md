@@ -4,6 +4,7 @@
 **Contact Information**  
 📞 +46-722705966  
 🔗 [LinkedIn](https://www.linkedin.com/in/ariful-amin/)
+
 ✉️ arifulamindu@gmail.com  
 📍 Malmö, Sweden  
 
@@ -73,7 +74,6 @@ Master’s student in **Applied Data Science** with **6+ years of experience** i
 **Samsung R&D Institute Bangladesh**, Dhaka  
 _April 2018 - April 2022_  
 
-## Overview
 As a **Software Engineer**, I worked on the development of the **HeartWise Smartwatch Application** in collaboration with **Samsung Research America (SRA)**. The app is focused on **heart wellness**, endorsed by leading cardiologists, and designed to enhance **remote patient monitoring** and improve product delivery timelines. I contributed to the project by utilizing **C++** for **Tizen-based** smartwatches, implementing advanced features for **exercise monitoring**, **health tracking**, and **user engagement**.
 
 ## Responsibilities
