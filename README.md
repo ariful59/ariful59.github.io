@@ -61,6 +61,7 @@ I’m a software engineer and master’s student in Applied Data Science with 6+
 ## Experience
 
 ### Teaching Assistant (part-time)
+**Malmö University, Malmö**, Sweden  
 **Malmö University, Malmö, Sweden 
   -  Conducted lab sessions in Multi-threaded Programming (DA218A), Imperative Programming in Python (CD100A), and Programming in C#/.NET (DA258E) for bachelor’s students in Computer Science.
   -  Coordinated departmental events as Program Assistant, providing academic and organizational support for first-
@@ -70,7 +71,7 @@ and second-year Master’s students.
 ### Software Programmer  
 **Coal Power Generation Company Bangladesh**, Dhaka  
   - Designed and deployed a full-stack IT and stationery management platform using React (frontend) and Django (backend). Containerized services with Docker and deployed on AWS, which improved system scalability, simplified maintenance, and provided a centralized platform for tracking resources and streamlining workflows.
-	- Developed a predictive maintenance pipeline using a PyTorch-based LSTM model to forecast equipment repairs, chemical usage, and energy supply needs. Leveraged scikit-learn for preprocessing, Pandas for data manipulation, and Matplotlib for visualization, resulting in a 30% improvement in procurement accuracy and operational efficiency.
+  - Developed a predictive maintenance pipeline using a PyTorch-based LSTM model to forecast equipment repairs, chemical usage, and energy supply needs. Leveraged scikit-learn for preprocessing, Pandas for data manipulation, and Matplotlib for visualization, resulting in a 30% improvement in procurement accuracy and operational efficiency.
   - Built interactive, web-based dashboards by integrating real-time telemetry from the power plant’s internal APIs. Used Plotly/D3.js for data visualization and dynamic exploration of KPIs, enabling engineers and managers to track production metrics, anticipate failures, and make data-driven decisions in real time.
 
 ### Software Engineer  
