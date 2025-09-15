@@ -11,7 +11,7 @@
 ---
 
 ## Overview
-Master’s student in **Applied Data Science** with **6+ years of experience** in software development, machine learning, and data analytics. Proficient in **Python**, **SQL**, **C++**, and data visualization tools. Experienced in developing data-driven solutions, building dashboards, and providing actionable insights for better decision-making. Strong problem-solving skills with a collaborative mindset, eager to support clients in solving complex data challenges.
+I’m a software engineer and master’s student in Applied Data Science with 6+ years of experience building Linux‐based embedded and IoT systems, developing end-to-end solutions, and working in real-world settings. I’m proficient in Python, C++, Docker and cloud platforms (Azure & AWS), and regularly design and deploy containerized applications as well as firmware for wearable devices. My work spans remote health monitoring, energy automation, and radar-based people-counting research — always with a focus on improving performance, enhancing reliability, and ensuring security. I thrive in collaborative, agile teams and enjoy turning complex data and systems into sustainable solutions that deliver measurable impact.
 
 
 ## Skills
@@ -60,15 +60,18 @@ Master’s student in **Applied Data Science** with **6+ years of experience** i
 
 ## Experience
 
+### Teaching Assistant (part-time)
+**Malmö University, Malmö, Sweden 
+  -  Conducted lab sessions in Multi-threaded Programming (DA218A), Imperative Programming in Python (CD100A), and Programming in C#/.NET (DA258E) for bachelor’s students in Computer Science.
+  -  Coordinated departmental events as Program Assistant, providing academic and organizational support for first-
+and second-year Master’s students. 
+
+
 ### Software Programmer  
 **Coal Power Generation Company Bangladesh**, Dhaka  
-  - Developed and implemented interactive, web-based data visualization dashboards to monitor key power plant production metrics, track maintenance schedules, and generate detailed worksheet summaries. Automated data aggregation and reporting processes, leading to a 10% reduction in manual reporting time, significantly improving operational efficiency and decision-making capabilities.
-  
-  - Led data-driven requirement analysis for software solutions, using machine learning models to analyze operational KPIs, enabling enhanced predictive maintenance and performance tracking for power plants. This initiative contributed to improved uptime and operational productivity.
-  
-  - Built front-end architecture for an IT and stationery management platform using React, optimizing the UI/UX design to streamline workflows and reduce processing time by 30%. Enhanced system performance and scalability, ensuring smoother task execution and improved user efficiency.
-  
-  - Applied data analysis techniques to identify and predict maintenance needs, reducing downtime and extending the lifespan of critical power plant equipment.
+  - Designed and deployed a full-stack IT and stationery management platform using React (frontend) and Django (backend). Containerized services with Docker and deployed on AWS, which improved system scalability, simplified maintenance, and provided a centralized platform for tracking resources and streamlining workflows.
+	- Developed a predictive maintenance pipeline using a PyTorch-based LSTM model to forecast equipment repairs, chemical usage, and energy supply needs. Leveraged scikit-learn for preprocessing, Pandas for data manipulation, and Matplotlib for visualization, resulting in a 30% improvement in procurement accuracy and operational efficiency.
+  - Built interactive, web-based dashboards by integrating real-time telemetry from the power plant’s internal APIs. Used Plotly/D3.js for data visualization and dynamic exploration of KPIs, enabling engineers and managers to track production metrics, anticipate failures, and make data-driven decisions in real time.
 
 ### Software Engineer  
 **Samsung R&D Institute Bangladesh**, Dhaka  
@@ -131,7 +134,9 @@ _Sep 2024 – Jun 2026_
 ### University of Dhaka, Bangladesh  
 **BSc in Computer Science & Engineering**  
 _Jan 2014 – Jan 2018_  
-- Coursework: Data Structures and Algorithms, Operating Systems, Database Management Systems, Computer Networks, Software Engineering, Computer Architecture, Discrete Mathematics.
+- Coursework: Data Structures and Algorithms, Operating Systems , Database Management Systems, Computer
+Networks, Software Engineering, Computer Architecture, Discrete Mathematics, Distributed Systems, Compiler
+Design and Construction
 
 ---
 
@@ -141,6 +146,9 @@ _Jan 2014 – Jan 2018_
 **Research Assistant** | *Feb 2017 - Dec 2017*  
 - Conducted research on minimizing energy costs for data transfer using an anchor selection algorithm for energy-harvesting wireless sensor networks.  
 - Worked on diverse topics, including **IoT devices**, **wireless sensor networks**, **cloud computing**, **mobile edge computing**, and **5G technology**.
+
+#### [CREME – VIP Programme], Malmö University, Sweden 
+- Current Research -  (Malmö University, 2025–present): Developing a radar-based people-counting system using machine learning, with a focus on improving accuracy in real-world environments by reducing multi-clutter signals, noise, and other deployment challenges. [Details]{https://student.mau.se/en/jobs-and-internships/vip-programme/vip-programme-creme/}
 
 ---
 
